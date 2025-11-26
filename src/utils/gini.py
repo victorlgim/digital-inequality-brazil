@@ -2,9 +2,10 @@ import numpy as np
 
 def gini(values: np.ndarray) -> float:
     """
-    Calcula o coeficiente de Gini para um array 1D.
-    Implementação eficiente e usada em literatura estatística.
+    Computes the Gini coefficient for a 1D array.
+    Efficient implementation commonly used in statistical literature.
     """
+
     x = np.asarray(values).flatten()
     
     x = x[~np.isnan(x)]

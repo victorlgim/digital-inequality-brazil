@@ -2,7 +2,7 @@ import numpy as np
 
 def lorenz_curve(values: np.ndarray):
     """
-    Retorna coordenadas da Curva de Lorenz (x, y) já normalizadas.
+    Returns normalized Lorenz Curve coordinates (x, y).
     """
     x = np.asarray(values).flatten()
     x = x[~np.isnan(x)]
