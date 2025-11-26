@@ -34,7 +34,8 @@ These insights show that digital inequality is both **territorial and infrastruc
 ## Data Sources  
 
 **Primary dataset:**  
-Anatel — Índice Brasileiro de Conectividade (IBC)  
+Anatel - Índice Brasileiro de Conectividade (IBC)  
+
 Available via Base dos Dados:
 
 - Telecom connectivity indicators  
