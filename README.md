@@ -79,9 +79,9 @@ Using custom utilities in `src/utils/`:
 
 ### 5. Regression Modeling  
 OLS model:
-
+```
 ibc ~ coverage_4g5g + density_smp + density_scm + hhi_smp + hhi_scm + stations_density + C(fiber_cat) + C(region) + C(year)
-  
+```
 Outputs:
 
 - coefficients  
