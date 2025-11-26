@@ -154,6 +154,13 @@ notebooks/05_temporal_analysis.ipynb
 
 ---
 
+## Discussion & Insights  
+For those who want a more narrative and contextual view of the results, I published an article on Medium delving deeper into the patterns observed in the study:
+
+**Medium:**  
+[Radiografia da Conectividade no Brasil (2021–2024)](https://medium.com/@uyamdlay/apesar-do-avan%C3%A7o-dos-dados-m%C3%B3veis-e-da-expans%C3%A3o-da-fibra-o-acesso-digital-se-concentra-onde-o-4a12772859c0)
+
+
 
 ## Author  
 Developed by Victor L.  
